@@ -1,0 +1,15 @@
+[report]
+site_name = "工程实践中心"
+batch_id = "patrol-20260921-0924"
+
+[paths]
+input_dir = "data"
+output_dir = "output"
+template = "templates/daily_report.md"
+
+[robots]
+R01 = "一号巡检车"
+R02 = "二号巡检车"
+R03 = "三号巡检车"
+R04 = "四号巡检车"
+
