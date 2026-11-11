@@ -3,7 +3,7 @@ import tomllib
 
 
 ROOT = Path(__file__).resolve().parent
-DEFAULT_CONFIG = ROOT / "config" / "settings.toml"
+DEFAULT_CONFIG = ROOT / "config.toml"
 
 
 def _text(section, key):

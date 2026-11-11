@@ -44,7 +44,7 @@ def _parse(row, robots, where):
         "day": started.date().isoformat(),
         "area": row["area"],
         "status": row["status"],
-        "duration_s": row["duration_s"],
+        "duration_s": duration,
         "distance_m": distance,
         "note": row["note"],
     }
