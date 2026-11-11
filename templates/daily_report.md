@@ -7,7 +7,7 @@
 
 - 巡检任务：{task_count} 次
 - 成功：{success_count} 次；失败：{failed_count} 次；取消：{cancelled_count} 次
-- 成功率：{success_rate}%
+- 成功率：{success_rate_pct}%
 - 累计耗时：{total_duration_s} 秒，平均每次 {average_duration_s} 秒
 - 累计里程：{total_distance_m} 米
 
